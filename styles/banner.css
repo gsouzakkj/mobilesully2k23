@@ -1,3 +1,7 @@
+.container__imagem{
+    width: 20%;
+}
+
 .banner {
     background: var(--azul-degrade);
     color: var(--branco);
